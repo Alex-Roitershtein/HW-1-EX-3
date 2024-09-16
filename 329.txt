@@ -25,7 +25,7 @@ Line 17: Kendall
 Line 18: Naveen
 Line 19: Grace
 Line 21: Steven
-Line 22: Spencer
+Line 22: 329
 Line 23: Eric
 Line 24: Minh Dao
 Line 25: Sebastian
@@ -34,14 +34,14 @@ Line 27: Amelia
 Line 28: Phillip
 Line 29: Zach
 Line 31: Gabriel
-Line 32: Aniket
+Line 32: Milka
 Line 33: Haleigh Jo
 Line 34: Rahul
 Line 35: Timothy
 Line 36: Inwoo
 Line 37: Brandon
 Line 38: Christopher
-Line 39: Milka
+Line 39: Aniket
 Line 41: Jordan
 Line 42: Thomas
 
